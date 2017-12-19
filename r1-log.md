@@ -11,6 +11,7 @@ I completed the freeCodeCamp tribute page project.  I have been working on it si
 Today I did a few JQuery exercises on SoloLearn https://www.sololearn.com/Profile/6539943 I will most likely use the library on the freeCodeCamp Portfolio Page Project.
 
 ### R1D3
+I spent some time figuring out the layout & creating wireframes for my freeCodeCamp Portfolio Website project.  Nonetheless, I was able to get some actual coding done through several JQuery exercises on SoloLearn.    
 
 ### R1D4
 
