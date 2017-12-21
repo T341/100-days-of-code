@@ -17,3 +17,8 @@ I spent some time figuring out the layout & creating wireframes for my freeCodeC
 I did more JQuery exercises today and saved some of my code on SoloLearn (public & private).
 
 ### R1D5
+I worked on my freeCodeCamp portfolio page today.  I didn't make as much progress as I wanted but I'm still learning what I need to know.
+
+### R1D6
+
+### R1D7
