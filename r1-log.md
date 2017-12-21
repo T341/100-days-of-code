@@ -14,5 +14,6 @@ Today I did a few JQuery exercises on SoloLearn https://www.sololearn.com/Profil
 I spent some time figuring out the layout & creating wireframes for my freeCodeCamp Portfolio Website project.  Nonetheless, I was able to get some actual coding done through several JQuery exercises on SoloLearn.    
 
 ### R1D4
+I did more JQuery exercises today and saved some of my code on SoloLearn (public & private).
 
 ### R1D5
