@@ -20,5 +20,6 @@ I did more JQuery exercises today and saved some of my code on SoloLearn (public
 I worked on my freeCodeCamp portfolio page today.  I didn't make as much progress as I wanted but I'm still learning what I need to know.
 
 ### R1D6
+Today I continued to work on my portfolio page project.  I was able to dolve a problem that lingered from yesterday.  All it took was patience and a couple of google searches.  
 
 ### R1D7
