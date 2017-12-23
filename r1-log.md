@@ -23,3 +23,12 @@ I worked on my freeCodeCamp portfolio page today.  I didn't make as much progres
 Today I continued to work on my portfolio page project.  I was able to dolve a problem that lingered from yesterday.  All it took was patience and a couple of google searches.  
 
 ### R1D7
+I continued to work on my freeCodeCamp portfolio page project.  
+
+
+
+### R1D8
+
+### R1D9
+
+
