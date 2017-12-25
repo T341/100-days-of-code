@@ -28,7 +28,10 @@ I continued to work on my freeCodeCamp portfolio page project.
 
 
 ### R1D8
+I continued to work on freeCodeCamp portfolio project. 
 
 ### R1D9
+I continued to work on my freeCodeCamp portfolio project.  I also looked a a couple of videos, code, and instructions on how to use animate.css. 
+
 
 
