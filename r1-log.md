@@ -33,5 +33,26 @@ I continued to work on freeCodeCamp portfolio project.
 ### R1D9
 I continued to work on my freeCodeCamp portfolio project.  I also looked a a couple of videos, code, and instructions on how to use animate.css. 
 
+### R1D10
+I did a little bit of work on my freeCodeCamp portfolio project.  I somewhat solved a problem but, my solution actually caused a new problem! 
+
+### R1D11
+I'm still working on my freeCodeCamp portfolio project. 
+
+### R1D12
+Today I continued to work on my freeCodeCamp portfolio page.  I've been working a little slow the last few days but, I am making progress.  I'm going to take a break and get back to it in a couple of hours.
+
+### R1D13
+Today I continued to work on my freeCodeCamp portfolio project.
+
+### R1D14
+I got started late today but I'm making progress on my freeCodeCamp portfolio project.  I also did a quick Bootstrap / CSS review earlier today.
+
+### R1D15
+ I worked on my freeCodeCamp project today for about an hour.  That's All I could do today.
+
+### R1D16
+Today I worked on updating my GitHub repositories.  I had to make a few changes in order to transfer files from CodePen to GitHub.
+
 
 
