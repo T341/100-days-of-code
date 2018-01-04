@@ -54,5 +54,13 @@ I got started late today but I'm making progress on my freeCodeCamp portfolio pr
 ### R1D16
 Today I worked on updating my GitHub repositories.  I had to make a few changes in order to transfer files from CodePen to GitHub.
 
+### R1D17
+Today I did more work on my freeCodeCamp protfolio project.  I a took a couple of steps back and started working on an older forked copy of my project.  I made a few mistakes and felt like it would be better to rebuild.
+
+### R1D18
+Today I continued with my freeCodeCamp protfolio project.  I'm a little under the wather today and did a minimal amount of work.
+
+### R1D19
+
 
 
