@@ -76,7 +76,14 @@ I did some work on my freeCodeCamp portfolio project.
 I continued to work on my freecodeCamp portfolio page.  This project should have been relatively easy but, I attempted to do a few things that were outside the scope of the user requests and beyond what I've learned so far.  I realize that I need to start working more systematically and give the users what they want and not what i think they should have.  In any case, I expect to be finished with this in the next few days.
 
 ### R1D24
+Today I continued working on my portfolio page project.
 
+### R1D25
+More
+Today  I got started w/ Front End Web Dev lessons through the #GrowWithGoogle scholarship.  I explored & made myself familiar with the Udacity platform.  I also got through several sections of the first lessons.  I also did a little work on my #freeCodeCamp Portfolio Project.  I also found out what was causing the unintenional right margin.  (It was a class I made up for one of my Divs)
+
+### R1D26
+#100DaysOfCode - Day 26:  Today I worked on #Udacity Front End Web Dev tutorials/exercises.  I made it halfway through the third lesson
 
 
 
