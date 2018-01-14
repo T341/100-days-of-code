@@ -83,7 +83,8 @@ More
 Today  I got started w/ Front End Web Dev lessons through the #GrowWithGoogle scholarship.  I explored & made myself familiar with the Udacity platform.  I also got through several sections of the first lessons.  I also did a little work on my #freeCodeCamp Portfolio Project.  I also found out what was causing the unintenional right margin.  (It was a class I made up for one of my Divs)
 
 ### R1D26
-#100DaysOfCode - Day 26:  Today I worked on #Udacity Front End Web Dev tutorials/exercises.  I made it halfway through the third lesson
+#100DaysOfCode - Day 26:  Today I worked on #Udacity Front End Web Dev tutorials/exercises.  I made it halfway through the third lesson #HTML5
 
-
+### R1D27
+Today I worked on #GrowWithGoogle Front End Dev lessons/quizzes.  I was able to complete lesson 3 and began working on lesson 4. #HTML5
 
