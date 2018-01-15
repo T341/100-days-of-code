@@ -88,3 +88,10 @@ Today  I got started w/ Front End Web Dev lessons through the #GrowWithGoogle sc
 ### R1D27
 Today I worked on #GrowWithGoogle Front End Dev lessons/quizzes.  I was able to complete lesson 3 and began working on lesson 4. #HTML5
 
+### R1D28 
+Today completed lesson 4 of the #GoogleUdacityScholars Front End Dev coursework. #HTML5
+
+### R1D29
+Today I got into CSS syntax & completed lesson 5 of the Google Udacity Scholars Front-End Dev coursework.  
+
+
