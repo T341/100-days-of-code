@@ -94,4 +94,7 @@ Today completed lesson 4 of the #GoogleUdacityScholars Front End Dev coursework.
 ### R1D29
 Today I got into CSS syntax & completed lesson 5 of the Google Udacity Scholars Front-End Dev coursework.  
 
+### R1D30  
+I got a lot of work done on my freeCodeCamp portfolio project.  It's practically finished.  All that's left is to complete the image gallery.
+
 
