@@ -97,7 +97,7 @@ Today I got into CSS syntax & completed lesson 5 of the Google Udacity Scholars 
 ### R1D30  
 I got a lot of work done on my freeCodeCamp portfolio project.  It's practically finished.  All that's left is to complete the image gallery.
 
-### R1D30 
+### R1D31 
 Today I worked on Goolge Udacity Scholars Front-End Dev coursework.  I made it halfway through lesson 6.  I spent a lot of time trying to come up with code that would create the exact effects of the example they provided.  The exercise was too difficult but it was a little trickey in my opinion!
 
 
