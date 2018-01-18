@@ -100,4 +100,5 @@ I got a lot of work done on my freeCodeCamp portfolio project.  It's practically
 ### R1D31 
 Today I worked on Goolge Udacity Scholars Front-End Dev coursework.  I made it halfway through lesson 6.  I spent a lot of time trying to come up with code that would create the exact effects of the example they provided.  The exercise was too difficult but it was a little trickey in my opinion!
 
-
+### R1D32
+I completed my freeCodeCamp portfolio page project.  Today I worked on the image gallery, fixed the problem I was having with unintended margins. (I found out that Bootstrap rows/containers have margins/padding by default), and cleaned up a few elements that were misaligned.  I'm still having problems with responsiveness on mobile screens that I will go back and fix once I figure it out.
