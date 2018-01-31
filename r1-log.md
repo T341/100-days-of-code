@@ -102,3 +102,29 @@ Today I worked on Goolge Udacity Scholars Front-End Dev coursework.  I made it h
 
 ### R1D32
 I completed my freeCodeCamp portfolio page project.  Today I worked on the image gallery, fixed the problem I was having with unintended margins. (I found out that Bootstrap rows/containers have margins/padding by default), and cleaned up a few elements that were misaligned.  I'm still having problems with responsiveness on mobile screens that I will go back and fix once I figure it out.
+
+### R1D33
+I completed the #GoogleUdacityScholars  Front-End Dev #CSS Problem Set.  I also worked on making a previous #freeCodeCamp project responsive to various screen sizes.
+
+### R1D34
+I couldn't get on my laptop today so, I did  JQuery & JavaScript exercises on the #SoloLearn mobile app
+
+
+### R1D35
+I've been out sick and I'm just getting back in the mix. Today I got halfway through lesson 7 of the #GoogleUdacityScholars Front-End Dev coursework & learned a bit about how to coding faster.
+
+### R1D36
+I started working late today.  I worked on a forked copy of a past portfolio project and attempted to correct some of the issues with responsiveness.   I'll continue working on it tomorrow.
+
+### R1D37
+I started working on a side project today.  Its a fan page for a musician I like.
+
+### R1D38
+I continued working on my musician fan page.  It's going to take a while because Ill only wokr on it when I have free time from other lessons/projects.
+
+### R1D38
+Today I worked on and completed section 7 on how to write code faster. #GoogleUdacityScholars Front-End Dev
+
+### R1D38
+Today I worked on #GoogleUdacityScholars Front-End Dev lessons/projects.  I got started on Lesson 8 and began building an Animal Trading Card. 
+
